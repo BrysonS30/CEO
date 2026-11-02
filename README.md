@@ -31,6 +31,7 @@ See [CEO.md](CEO.md), [RULES.md](RULES.md), and [TEAMS.md](TEAMS.md) for the com
 | `CEO.md` | CEO's role, authority, working style, and standing okays |
 | `RULES.md` | Non-negotiable operating, safety, and approval rules |
 | `TEAMS.md` | Organization chart, team responsibilities, and reporting lines |
+| `TASK-BOARD.md` | Shared task board for Overseer updates, status, and owner decisions |
 | `REPORTING.md` | Reporting schedule, report formats, and reporting standards |
 | `projects/KALSHI.md` | Kalshi Sports Think Tank workflow, restrictions, and success criteria |
 | `projects/THE_MATH_TAKE.md` | The Math Take content workflow, platforms, rules, and income path |
